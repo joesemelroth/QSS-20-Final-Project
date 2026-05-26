@@ -9,7 +9,7 @@ Trump's Fed Chair nominee, won by Kevin Warsh (`KXFEDCHAIRNOM-29-KW`).
 
 ## Order to run
 
-1. [code/pull_data.ipynb](code/pull_data.ipynb)
+1. [pull_data.ipynb](QSS%2020%20Final%20Project/code/pull_data.ipynb)
 
 * Takes in:
    * Kalshi's public REST API (`https://api.elections.kalshi.com/trade-api/v2`)
@@ -20,10 +20,10 @@ Trump's Fed Chair nominee, won by Kevin Warsh (`KXFEDCHAIRNOM-29-KW`).
    * Pulls all trades for each market and trims to the analysis columns (`trade_id`, `ticker`, `created_time`, `count_fp`, `yes_price_dollars`, `no_price_dollars`, `taker_side`)
 * Outputs:
    * Two .csv files, each containing trade-level data for one market:
-      1. [data/indiana_championship_trades.csv](data/indiana_championship_trades.csv)
-      2. [data/warsh_fed_chair_trades.csv](data/warsh_fed_chair_trades.csv)
+      1. [indiana_championship_trades.csv](QSS%2020%20Final%20Project/data/indiana_championship_trades.csv)
+      2. [warsh_fed_chair_trades.csv](QSS%2020%20Final%20Project/data/warsh_fed_chair_trades.csv)
 
-2. [code/analyze.ipynb](code/analyze.ipynb)
+2. [analyze.ipynb](QSS%2020%20Final%20Project/code/analyze.ipynb)
 
 * Takes in:
    * The two .csv files created in step 1
@@ -35,5 +35,5 @@ Trump's Fed Chair nominee, won by Kevin Warsh (`KXFEDCHAIRNOM-29-KW`).
    * Marks secondary reference points: the Bloomberg report (9:17 PM ET Jan 29) and kickoff (7:30 PM ET Jan 19)
 * Outputs:
    * Two .png figures:
-      1. [output/trading_activity_final.png](output/trading_activity_final.png) — normalized trading activity around each market's information event
-      2. [output/price_trajectory.png](output/price_trajectory.png) — implied probability over time, showing when each market reached certainty
+      1. [trading_activity_final.png](QSS%2020%20Final%20Project/output/trading_activity_final.png) — normalized trading activity around each market's information event
+      2. [price_trajectory.png](QSS%2020%20Final%20Project/output/price_trajectory.png) — implied probability over time, showing when each market reached certainty
