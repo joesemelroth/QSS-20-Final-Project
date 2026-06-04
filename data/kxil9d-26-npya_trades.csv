@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+82f074b0-de68-62ee-c589-d5e189e9574c,KXIL9D-26-NPYA,2026-03-15T18:12:38.699973Z,1.00,0.0100,0.9900,yes
+ac42ae5d-6e1d-76f6-1a92-b134d780196e,KXIL9D-26-NPYA,2026-02-12T20:18:14.10936Z,3.00,0.0100,0.9900,yes

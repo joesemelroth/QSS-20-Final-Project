@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+c03a902c-d33b-5325-0643-d758ff6bfbbe,KXTXPRIMARY-23D26-BRIC,2026-03-03T22:50:47.086132Z,14.00,0.0200,0.9800,yes
+86716735-1170-5cd4-0958-26aed24074cb,KXTXPRIMARY-23D26-BRIC,2026-03-03T22:50:47.086132Z,1.00,0.0100,0.9900,yes

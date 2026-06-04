@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+8f75d18d-5207-6cde-e560-f61aeddab90b,KXAUBCOACH-26-FBRO,2025-11-13T01:36:16.51237Z,15.00,0.0600,0.9400,yes
+3799ba4c-94fe-5949-676c-ef836b119bd9,KXAUBCOACH-26-FBRO,2025-11-05T05:44:04.975297Z,1.00,0.9900,0.0100,yes

@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+7eec36cb-0adc-766d-5a9b-609a582a6988,KXLSUCOACH-26-BOBR,2025-11-21T18:38:31.236967Z,200.00,0.0200,0.9800,yes
+2c6ee76c-b5b1-7386-6d16-831066b1d94f,KXLSUCOACH-26-BOBR,2025-10-27T20:02:21.851754Z,78.00,0.0600,0.9400,yes

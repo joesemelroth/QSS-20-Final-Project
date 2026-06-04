@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+332ca31b-99ec-64c3-d1b1-05860775a8e6,KXUCLACOACH-26-KSIT,2025-12-01T16:32:27.480834Z,234.00,0.0400,0.9600,yes
+9a077982-31e2-48ea-43c4-312ae6ba8b4d,KXUCLACOACH-26-KSIT,2025-11-03T03:18:29.063877Z,50.00,0.0800,0.9200,yes

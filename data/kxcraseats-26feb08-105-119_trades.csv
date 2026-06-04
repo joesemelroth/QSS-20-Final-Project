@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+c115699a-6b75-5e05-408a-46c89b1068bd,KXCRASEATS-26FEB08-105-119,2026-02-08T17:07:58.09416Z,80.00,0.0200,0.9800,no
+b78efc4b-d62d-6959-9953-8ba5f6a1c535,KXCRASEATS-26FEB08-105-119,2026-02-08T15:07:00.752161Z,70.00,0.0200,0.9800,no

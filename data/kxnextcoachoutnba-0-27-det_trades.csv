@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+157255cd-8a4f-4f1b-9023-6d2d76658f95,KXNEXTCOACHOUTNBA-0-27-DET,2025-08-22T08:19:21.511542Z,94.00,0.0700,0.9300,yes
+8ee7cbae-0261-4b97-825c-0d6771a6d68a,KXNEXTCOACHOUTNBA-0-27-DET,2025-08-17T02:13:50.121664Z,10.00,0.0600,0.9400,yes

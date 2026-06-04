@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+e13cd9b7-618f-77b3-9bbd-e088e31c6294,KXPORTUGALPRESCOMBO-26JAN-OTH,2026-01-20T18:31:19.077546Z,1.00,0.0100,0.9900,yes
+2a6b449a-de10-4ed1-1c3a-fb161c191d62,KXPORTUGALPRESCOMBO-26JAN-OTH,2026-01-18T20:43:06.295158Z,200.00,0.0100,0.9900,no

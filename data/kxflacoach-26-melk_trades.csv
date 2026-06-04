@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+490aea61-61f9-56e8-8354-2c792fc495ee,KXFLACOACH-26-MELK,2025-11-30T00:18:24.475838Z,61.00,0.0300,0.9700,yes
+5fa4fa2b-2e00-57b7-c45e-ccdcb2f5088a,KXFLACOACH-26-MELK,2025-11-13T00:05:44.178073Z,10.00,0.0400,0.9600,yes

@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+50d8f9e1-27d4-4df7-60a5-361fa301c7bf,KXALCARAZCOACH-26-PMOU,2026-02-01T09:09:26.913727Z,200.00,0.0100,0.9900,no
+105c5a2d-a111-6f9c-dc72-6c3c8c522d26,KXALCARAZCOACH-26-PMOU,2025-12-18T19:39:57.595564Z,1.00,0.0400,0.9600,no

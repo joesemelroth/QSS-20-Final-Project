@@ -1,0 +1,4 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+1a5ccf5e-3fde-6eec-771f-b653aeb42e93,KXNCAAF-26-RUTG,2025-10-10T17:45:05.213218Z,9.00,0.0100,0.9900,yes
+3b5f73d5-e452-61a8-0679-ab3d1785a02f,KXNCAAF-26-RUTG,2025-10-05T21:05:12.400436Z,1.00,0.0100,0.9900,yes
+b9a10b8d-1fa1-45fc-995e-649ae1945b5e,KXNCAAF-26-RUTG,2025-09-22T06:58:08.19346Z,18.00,0.0100,0.9900,yes

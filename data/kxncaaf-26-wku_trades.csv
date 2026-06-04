@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+96999c53-d28c-6a04-b842-a3dc42dfdf98,KXNCAAF-26-WKU,2025-10-05T18:58:50.401729Z,17.00,0.0100,0.9900,yes
+02d2b5f9-2548-4bde-990e-dd332b3bd321,KXNCAAF-26-WKU,2025-09-23T00:38:36.95707Z,1.00,0.0100,0.9900,yes

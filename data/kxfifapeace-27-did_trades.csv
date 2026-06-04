@@ -1,0 +1,4 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+8ee5fcc5-208f-6cff-dae5-feff47c6ec98,KXFIFAPEACE-27-DID,2025-11-17T18:46:24.185195Z,1.00,0.0500,0.9500,yes
+d1c52602-bfdb-7e3b-eb4f-5c7af8807474,KXFIFAPEACE-27-DID,2025-11-17T18:46:19.353354Z,1.00,0.0500,0.9500,yes
+09780699-88b7-7eb3-959f-cc5590f81dd4,KXFIFAPEACE-27-DID,2025-11-09T21:39:58.535703Z,18.00,0.0500,0.9500,yes

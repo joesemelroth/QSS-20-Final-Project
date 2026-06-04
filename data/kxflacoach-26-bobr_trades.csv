@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+b1e43337-e804-6695-a5e3-525d2fd9233e,KXFLACOACH-26-BOBR,2025-11-22T01:07:11.424305Z,31.00,0.0300,0.9700,yes
+695c86f6-20ad-7d26-508d-5a0593295bfa,KXFLACOACH-26-BOBR,2025-11-05T23:23:07.653702Z,46.00,0.0400,0.9600,yes

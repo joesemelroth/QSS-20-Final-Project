@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+3165ff03-09fe-6799-9ce6-5df73d082bbd,KXG7LEADEROUT-36-MC,2025-10-02T04:24:31.059146Z,89.00,0.0100,0.9900,no
+3089b78c-cae7-5e9f-0d37-c4d6336e9495,KXG7LEADEROUT-36-MC,2025-10-01T18:36:30.744445Z,144.00,0.0100,0.9900,no

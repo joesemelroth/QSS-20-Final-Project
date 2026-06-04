@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+e843d258-f203-4287-a2a3-f54f990b08ac,KXNCAAF-26-UTEP,2025-09-22T23:52:39.663134Z,1.00,0.0100,0.9900,yes
+cce649f2-28cd-49c9-8892-0bf4ff83ca82,KXNCAAF-26-UTEP,2025-08-26T04:32:52.379044Z,33.00,0.0100,0.9900,yes

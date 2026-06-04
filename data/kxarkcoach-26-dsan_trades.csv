@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+7eee3a98-a7c7-55df-1916-c7a2ec3241e7,KXARKCOACH-26-DSAN,2025-11-21T12:01:15.558913Z,2.00,0.0400,0.9600,yes
+0692581e-b1c8-552d-240a-89506f07c0c9,KXARKCOACH-26-DSAN,2025-11-21T12:01:15.558913Z,22.00,0.0400,0.9600,yes

@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+d573c6ce-74e8-4064-893e-2df82471d63a,KXASIALEADEROUT-35-SI,2025-03-13T22:40:51.829194Z,184.00,0.0800,0.9200,yes
+53150f24-7afa-42d2-aa91-7398eaad0ea1,KXASIALEADEROUT-35-SI,2025-03-13T22:40:51.829194Z,366.00,0.0600,0.9400,yes

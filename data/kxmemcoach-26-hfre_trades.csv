@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+a37db71a-c230-6eb1-25b8-f8f32b8bf7ec,KXMEMCOACH-26-HFRE,2025-12-06T20:59:09.829129Z,10.00,0.0500,0.9500,yes
+2b786050-984d-6ac6-21f1-f578227b95d5,KXMEMCOACH-26-HFRE,2025-12-02T19:54:30.74941Z,26.00,0.0700,0.9300,yes

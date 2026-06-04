@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+c10f9752-cf1c-6b4d-efb5-4bef9aaddc2a,KXNYGCOACH-26-MLAF,2026-01-13T05:30:11.247023Z,9.00,0.0200,0.9800,yes
+0f0a26a2-cd17-60a8-a06b-1ba44e9b0440,KXNYGCOACH-26-MLAF,2026-01-11T22:01:37.250313Z,14.00,0.1100,0.8900,yes

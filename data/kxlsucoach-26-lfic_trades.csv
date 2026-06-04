@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+78518add-2fb3-5c40-8918-f455a9be96f3,KXLSUCOACH-26-LFIC,2025-11-28T05:19:10.650239Z,5.00,0.0300,0.9700,yes
+faca4498-8c45-659d-3158-6197dc931c4e,KXLSUCOACH-26-LFIC,2025-11-10T01:16:06.41926Z,58.00,0.0400,0.9600,yes

@@ -1,0 +1,4 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+21ff887b-d0a2-4ea2-b19f-69fc4d2f832d,KXNCAAF-26-WVU,2025-09-22T23:55:52.062351Z,1.00,0.0100,0.9900,yes
+e2975f2f-f0ff-45f4-bc21-0b0d6c1427a0,KXNCAAF-26-WVU,2025-08-29T20:05:54.375989Z,7.00,0.0100,0.9900,yes
+1ffdfbb9-e8b9-410d-b7c6-adea0dcb991f,KXNCAAF-26-WVU,2025-08-28T18:49:59.425955Z,20.00,0.0100,0.9900,yes

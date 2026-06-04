@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+8474f9d7-9e56-444b-885d-2e64b9350442,KXEULEADEROUT-35-KM,2025-04-26T22:28:16.79929Z,117.00,0.0400,0.9600,yes
+287c1230-2d69-454d-b7a3-1cacd2e4a4c6,KXEULEADEROUT-35-KM,2025-02-19T04:10:34.274295Z,20.00,0.0600,0.9400,yes

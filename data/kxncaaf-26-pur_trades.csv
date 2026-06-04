@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+71e4373d-5731-4580-bde2-2a93c57707e7,KXNCAAF-26-PUR,2025-09-22T23:49:11.557176Z,1.00,0.0100,0.9900,yes
+8566482a-aa73-48fe-a7c6-628731a74708,KXNCAAF-26-PUR,2025-08-13T03:10:16.092491Z,4.00,0.0100,0.9900,yes

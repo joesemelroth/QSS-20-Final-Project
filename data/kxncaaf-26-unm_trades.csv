@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+d211ff19-7c38-4ce1-0e37-f45ba5f9b46c,KXNCAAF-26-UNM,2025-09-28T08:37:33.136945Z,1122.00,0.0100,0.9900,yes
+e4df6cd2-858d-45f2-a9f5-767f95f8accc,KXNCAAF-26-UNM,2025-09-23T00:19:58.757583Z,1.00,0.0100,0.9900,yes

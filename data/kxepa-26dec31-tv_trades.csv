@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+b3bcab51-a904-412c-ac13-9045c6be6905,KXEPA-26DEC31-TV,2024-11-13T04:59:30.149674Z,1.00,0.0100,0.9900,no
+b02823af-f8d0-4faf-9407-9428eb4b8249,KXEPA-26DEC31-TV,2024-11-12T23:30:16.356396Z,14.00,0.0100,0.9900,no

@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+cc4e4ebf-a301-4c83-8ac0-00074b9a820f,KXNCAAF-26-CSU,2025-09-23T00:07:55.089967Z,9.00,0.0100,0.9900,yes
+d34ed481-518a-4d7a-b25a-6936edc2255c,KXNCAAF-26-CSU,2025-09-23T00:03:49.484182Z,25.00,0.0100,0.9900,yes

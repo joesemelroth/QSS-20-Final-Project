@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+45aadb15-10c7-5bde-a808-c9cb8de41fb7,KXSENATEILD-26-RBLA,2026-03-15T22:38:53.325731Z,1.00,0.0100,0.9900,yes
+4d7124dc-bbc3-4c22-60e9-c486eab871cb,KXSENATEILD-26-RBLA,2026-01-20T19:28:18.357395Z,1.00,0.0100,0.9900,yes

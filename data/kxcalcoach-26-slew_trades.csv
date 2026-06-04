@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+0ea54036-3e52-732c-4415-064cde377611,KXCALCOACH-26-SLEW,2025-12-02T03:31:53.235229Z,4.00,0.0200,0.9800,no
+1d25c516-eaa4-7726-88db-5c62cb17bfdb,KXCALCOACH-26-SLEW,2025-11-28T21:52:37.536917Z,4.00,0.0400,0.9600,yes

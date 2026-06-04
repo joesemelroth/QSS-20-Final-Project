@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+dc9fd1db-a3d7-44f6-fa04-0d04def2b3c0,KXNEXTTEAMNFL-26TTAGOVAILAO-NO,2026-03-07T19:36:05.624091Z,3.00,0.0100,0.9900,yes
+a3d9a925-b766-47b7-e955-9a65984efe7d,KXNEXTTEAMNFL-26TTAGOVAILAO-NO,2026-02-17T15:04:52.594208Z,72.00,0.1300,0.8700,yes

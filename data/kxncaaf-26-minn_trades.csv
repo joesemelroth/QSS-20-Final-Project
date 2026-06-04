@@ -1,0 +1,4 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+759ff987-c5b9-51c0-0206-ae4995fa3deb,KXNCAAF-26-MINN,2025-10-04T21:37:43.86728Z,93.00,0.0100,0.9900,yes
+9e9aecbb-bc34-41d6-b8a8-fac788999cec,KXNCAAF-26-MINN,2025-09-22T23:45:43.731309Z,1.00,0.0100,0.9900,yes
+6c2f7904-8491-4bdb-a2fe-18c4f964896b,KXNCAAF-26-MINN,2025-08-23T20:13:23.615837Z,935.00,0.0100,0.9900,yes

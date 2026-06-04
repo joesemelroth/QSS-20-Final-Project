@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+412baa4a-628f-487b-2539-e1006be6a299,KXTXPRIMARY-23D26-GENC,2026-02-24T11:57:39.181999Z,205.00,0.1000,0.9000,yes
+03af00f1-5fcc-44a7-038b-1697695c8795,KXTXPRIMARY-23D26-GENC,2026-02-24T11:57:39.181999Z,50.00,0.0600,0.9400,yes

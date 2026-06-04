@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+576f456e-d125-4b8c-7fb1-bef8351a0530,KXTHAIPARLIAMENT2ND-26FEB08-2-DP,2026-03-01T08:45:14.10129Z,3.00,0.0400,0.9600,yes
+cb7aa9a8-b431-5318-1aaa-4bc11649f9e0,KXTHAIPARLIAMENT2ND-26FEB08-2-DP,2026-02-09T12:07:56.284688Z,23.00,0.0400,0.9600,yes

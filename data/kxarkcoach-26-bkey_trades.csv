@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+c8c3fac4-bae2-4ab0-18d5-2327e9244f92,KXARKCOACH-26-BKEY,2025-11-21T04:30:31.430708Z,2.00,0.0400,0.9600,yes
+1cff0166-823a-42e2-2f16-a3a2ac762455,KXARKCOACH-26-BKEY,2025-11-21T04:30:31.430708Z,44.00,0.0400,0.9600,yes

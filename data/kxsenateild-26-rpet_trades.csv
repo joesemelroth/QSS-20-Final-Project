@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+b2463754-ea65-7c38-79eb-91b7b9260acc,KXSENATEILD-26-RPET,2026-03-18T00:17:58.458581Z,166.00,0.0100,0.9900,yes
+2e53c374-0bb5-48fc-0599-d1fa250e3afc,KXSENATEILD-26-RPET,2026-03-15T20:43:43.520509Z,1.00,0.0100,0.9900,yes

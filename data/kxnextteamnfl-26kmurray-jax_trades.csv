@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+0d5ae6e3-87a2-5929-a905-833e1ef32c24,KXNEXTTEAMNFL-26KMURRAY-JAX,2026-02-05T13:29:20.488491Z,1.00,0.0200,0.9800,no
+5026a233-ae7e-68d0-327c-25e2718b9ebe,KXNEXTTEAMNFL-26KMURRAY-JAX,2026-02-05T13:22:22.94682Z,1.00,0.0900,0.9100,no

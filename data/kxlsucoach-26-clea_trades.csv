@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+ea6cb92b-c866-5692-313a-4431b44018b0,KXLSUCOACH-26-CLEA,2025-11-30T05:32:40.467726Z,100.00,0.0100,0.9900,yes
+15ee9892-b96c-6726-2f98-073ec4213cbd,KXLSUCOACH-26-CLEA,2025-11-29T02:11:22.106828Z,3.00,0.0400,0.9600,yes

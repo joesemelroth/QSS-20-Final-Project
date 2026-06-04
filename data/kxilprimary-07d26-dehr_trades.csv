@@ -1,0 +1,2 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+42e9eeb6-1b45-52f3-32f3-1b198a92ad93,KXILPRIMARY-07D26-DEHR,2026-03-15T18:12:16.96749Z,1.00,0.0100,0.9900,yes

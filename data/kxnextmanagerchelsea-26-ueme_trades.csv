@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+6dba9c80-41d9-49cb-09ac-2fd678a4450f,KXNEXTMANAGERCHELSEA-26-UEME,2026-01-06T12:58:12.966242Z,14.00,0.0500,0.9500,yes
+c0dc81a0-850e-45a4-7f1a-47f257d6a3f6,KXNEXTMANAGERCHELSEA-26-UEME,2026-01-02T01:48:51.619224Z,41.00,0.0100,0.9900,no

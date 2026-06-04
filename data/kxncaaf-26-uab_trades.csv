@@ -1,0 +1,3 @@
+trade_id,ticker,created_time,count_fp,yes_price_dollars,no_price_dollars,taker_side
+4fc1e81f-d1f8-51eb-02cd-d16bc48aa96d,KXNCAAF-26-UAB,2025-11-16T15:19:48.088709Z,46.00,0.0100,0.9900,yes
+8b382dac-b732-4d65-8d80-ae1a06f44a7e,KXNCAAF-26-UAB,2025-09-23T00:37:49.213309Z,1.00,0.0100,0.9900,yes
